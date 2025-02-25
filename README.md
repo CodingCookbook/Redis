@@ -14,11 +14,12 @@
 10. Redis数据库笔记——部署模式  
 11. Redis数据库笔记——主从复制  
 12. Redis数据库笔记——Sentinel哨兵机制  
-13. Redis数据库笔记——Cluster集群模式  
-14. Redis数据库笔记——Redis快的原因  
+13. Redis数据库笔记——Cluster集群模式
+14. Redis数据库笔记——单线程和并发请求
+15. Redis数据库笔记——Redis快的原因  
 
 ## 订阅链接
-[公众号「**编程Cookbook**」八股库：Redis数据库](https://mp.weixin.qq.com/template/article/1740398587/index.html)
+[公众号「**编程Cookbook**」八股库：Redis数据库](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4Mzc2ODc2Ng==&action=getalbum&album_id=3872358459978956805&scene=173&sessionid=1740491728&enterid=1740491730&from_msgid=2247484881&from_itemidx=1&count=3&nolastread=1#wechat_redirect)
 
 
 > 关注公众号「**编程Cookbook**」，获取更多编程学习/面试资料！  
